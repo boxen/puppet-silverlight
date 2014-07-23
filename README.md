@@ -3,7 +3,7 @@
 Installs [Microsoft Silverlight](http://www.microsoft.com/silverlight/).
 
 
-[![Build Status](https://travis-ci.org/nickpellant/puppet-silverlight.svg?branch=master)](https://travis-ci.org/nickpellant/puppet-silverlight)
+[![Build Status](https://travis-ci.org/boxen/puppet-silverlight.svg?branch=master)](https://travis-ci.org/boxen/puppet-silverlight)
 
 ## Usage
 
